@@ -1,0 +1,12 @@
+.git
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+screenshots/
+documentation/
+kubernetes/
+hybrid-cloud/
+load-testing/
+*.zip
